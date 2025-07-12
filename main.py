@@ -100,5 +100,5 @@ time.sleep(2)
 logout = driver.find_element(By.ID, '//*[@id="logout2"]')
 logout.click()
 
-# Fin
+#Final
 driver.quit()
